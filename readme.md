@@ -1,5 +1,3 @@
-# asd
-
 ### How to connect Travis CI with Github & Firebase
 
 
